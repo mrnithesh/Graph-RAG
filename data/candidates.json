@@ -1,0 +1,59 @@
+[
+  {
+    "id": "cand_001",
+    "name": "Aisha Khan",
+    "location": "Houston, TX",
+    "years_experience": 8.5,
+    "summary": "Energy systems engineer focused on gas turbine condition monitoring and predictive maintenance. Built Python pipelines for vibration analytics and deployed models to production.",
+    "skills": ["Python", "Time series analysis", "Predictive maintenance", "Vibration analysis", "SQL", "AWS", "ETL", "Data visualization"],
+    "certifications": ["AWS Certified Solutions Architect – Associate"],
+    "domains": ["Power generation", "Gas turbines"],
+    "experience": [
+      {"company": "OEM Turbine Services", "title": "Reliability Engineer", "years": 4.0},
+      {"company": "IPPs United", "title": "Data Engineer", "years": 2.5}
+    ]
+  },
+  {
+    "id": "cand_002",
+    "name": "Miguel Santos",
+    "location": "Calgary, AB",
+    "years_experience": 10.0,
+    "summary": "SCADA and OT cybersecurity specialist for midstream and upstream operations. Led IEC 62443 programs, network segmentation, and incident response playbooks.",
+    "skills": ["SCADA", "OT security", "IEC 62443", "Network segmentation", "SIEM", "Risk assessment", "Windows hardening"],
+    "certifications": ["GICSP", "CISSP"],
+    "domains": ["Midstream", "Upstream", "Pipelines"],
+    "experience": [
+      {"company": "Prairie Midstream", "title": "OT Security Lead", "years": 5.5},
+      {"company": "FieldOps Energy", "title": "Controls Engineer", "years": 3.0}
+    ]
+  },
+  {
+    "id": "cand_003",
+    "name": "Priya Nair",
+    "location": "Austin, TX",
+    "years_experience": 6.0,
+    "summary": "Data scientist working on renewable forecasting (wind/solar) and market optimization. Built probabilistic forecasts and MLOps workflows.",
+    "skills": ["Python", "Machine learning", "Forecasting", "Bayesian modeling", "MLOps", "Docker", "Kubernetes", "Pandas"],
+    "certifications": ["Google Professional Machine Learning Engineer"],
+    "domains": ["Renewables", "Wind", "Solar"],
+    "experience": [
+      {"company": "GridFlex", "title": "Data Scientist", "years": 4.0},
+      {"company": "Energy Markets Co", "title": "Analyst", "years": 2.0}
+    ]
+  },
+  {
+    "id": "cand_004",
+    "name": "Omar Al-Farsi",
+    "location": "Dubai, UAE",
+    "years_experience": 12.0,
+    "summary": "HSE and compliance manager across drilling and production. Experienced with ISO 45001, audits, and contractor safety programs.",
+    "skills": ["HSE management", "ISO 45001", "Auditing", "Incident investigation", "Risk management", "Contractor management"],
+    "certifications": ["NEBOSH IGC"],
+    "domains": ["Upstream", "Drilling", "Production"],
+    "experience": [
+      {"company": "Desert Drilling", "title": "HSE Manager", "years": 6.0},
+      {"company": "Gulf Energy", "title": "HSE Supervisor", "years": 4.0}
+    ]
+  }
+]
+

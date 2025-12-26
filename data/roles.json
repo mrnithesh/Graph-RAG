@@ -1,0 +1,25 @@
+[
+  {
+    "id": "role_001",
+    "title": "OT Cybersecurity Engineer (SCADA/ICS) - Energy",
+    "location": "Calgary, AB",
+    "seniority": "senior",
+    "summary": "Secure and harden SCADA/ICS environments for pipeline operations. Drive IEC 62443 alignment, segmentation, monitoring, and incident response with OT constraints.",
+    "required_skills": ["SCADA", "OT security", "IEC 62443", "Network segmentation", "Risk assessment"],
+    "preferred_skills": ["SIEM", "Windows hardening"],
+    "required_certifications": ["GICSP"],
+    "domains": ["Midstream", "Pipelines"]
+  },
+  {
+    "id": "role_002",
+    "title": "Reliability Data Engineer - Gas Turbines",
+    "location": "Houston, TX",
+    "seniority": "mid",
+    "summary": "Build data pipelines and analytics for gas turbine condition monitoring and predictive maintenance. Own ingestion, feature engineering, and production monitoring.",
+    "required_skills": ["Python", "SQL", "Predictive maintenance", "Vibration analysis", "ETL"],
+    "preferred_skills": ["AWS", "Time series analysis"],
+    "required_certifications": [],
+    "domains": ["Power generation", "Gas turbines"]
+  }
+]
+
